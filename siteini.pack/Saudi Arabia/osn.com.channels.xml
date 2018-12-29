@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="osn.com">
   <channels>
     <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First">OSN Movies First</channel>
