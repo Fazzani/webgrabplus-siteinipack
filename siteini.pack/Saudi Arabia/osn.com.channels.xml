@@ -6,7 +6,6 @@
     <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
     <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel>
     <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
-    <channel update="i" site="osn.com" site_id="POP" xmltv_id="Paw Patrol with OSN">Paw Patrol with OSN</channel>
     <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies +2h">OSN Movies +2h</channel>
     <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Thriller HD">OSN Movies Thriller HD</channel>
     <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Thriller +2h">OSN Movies Thriller +2h</channel>
@@ -117,7 +116,7 @@
     <channel update="i" site="osn.com" site_id="CT9" xmltv_id="CGTN">CGTN</channel>
     <channel update="i" site="osn.com" site_id="FRE" xmltv_id="France 24 English">France 24 English</channel>
     <channel update="i" site="osn.com" site_id="NHK" xmltv_id="NHK World TV">NHK World TV</channel>
-    <channel update="i" site="osn.com" site_id="MAD" xmltv_id="Madani TV">Madani TV</channel>
+    <channel update="i" site="osn.com" site_id="MDN" xmltv_id="Madani TV">Madani TV</channel>
     <channel update="i" site="osn.com" site_id="DUN" xmltv_id="Dunya News">Dunya News</channel>
     <channel update="i" site="osn.com" site_id="AYN" xmltv_id="ARY News">ARY News</channel>
     <channel update="i" site="osn.com" site_id="GON" xmltv_id="Geo News">Geo News</channel>
@@ -171,5 +170,6 @@
     <channel update="i" site="osn.com" site_id="TFC" xmltv_id="TFC">TFC</channel>
     <channel update="i" site="osn.com" site_id="BRO" xmltv_id="ABS-CBN Sports+Action">ABS-CBN Sports+Action</channel>
     <channel update="i" site="osn.com" site_id="COG" xmltv_id="Cinema One Global">Cinema One Global</channel>
+    <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
   </channels>
 </site>
