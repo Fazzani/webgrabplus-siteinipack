@@ -3,7 +3,9 @@
   <channels>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsGlobalHD" xmltv_id="SportsGlobalHD">SportsGlobalHD</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/HD4" xmltv_id="HD4">HD4</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD2" xmltv_id="HD2">HD2</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD3" xmltv_id="HD3">HD3</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD5" xmltv_id="HD5">HD5</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD6" xmltv_id="HD6">HD6</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD7" xmltv_id="HD7">HD7</channel>
@@ -17,7 +19,7 @@
     <channel update="i" site="bein.net" site_id="mena_sports/SportsHD15" xmltv_id="SportsHD15">SportsHD15</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsHD16" xmltv_id="SportsHD16">SportsHD16</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsHD17" xmltv_id="SportsHD17">SportsHD17</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/max1" xmltv_id="max1">max1</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/max4" xmltv_id="max4">max4</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/4K" xmltv_id="4K">4K</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/BS NBA" xmltv_id="BS NBA">BS NBA</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD1" xmltv_id="MoviesHD1">MoviesHD1</channel>
