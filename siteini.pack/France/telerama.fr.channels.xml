@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="telerama.fr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.7 -- Jan van Straaten" site="telerama.fr">
   <channels>
     <channel update="i" site="telerama.fr" site_id="6ter,1403" xmltv_id="6ter">6ter</channel>
     <channel update="i" site="telerama.fr" site_id="arte,111" xmltv_id="Arte">Arte</channel>
