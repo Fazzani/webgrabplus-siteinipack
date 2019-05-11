@@ -117,7 +117,6 @@
     <channel update="i" site="osn.com" site_id="NDT" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
     <channel update="i" site="osn.com" site_id="ANN" xmltv_id="Asianet News">Asianet News</channel>
     <channel update="i" site="osn.com" site_id="SNH" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
-    <channel update="i" site="osn.com" site_id="SNA" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
     <channel update="i" site="osn.com" site_id="MMK" xmltv_id="AlMamlaka TV">AlMamlaka TV</channel>
     <channel update="i" site="osn.com" site_id="RUS" xmltv_id="Rusiya Al Yawm">Rusiya Al Yawm</channel>
     <channel update="i" site="osn.com" site_id="ALH" xmltv_id="AL Hurra HD">AL Hurra HD</channel>
