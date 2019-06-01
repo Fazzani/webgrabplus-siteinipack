@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.7 -- Jan van Straaten" site="bein.net">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="bein.net">
   <channels>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsGlobalHD" xmltv_id="SportsGlobalHD">SportsGlobalHD</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel>
@@ -94,6 +94,13 @@
     <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="au_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="BS3">BS3</channel>
+    <channel update="i" site="bein.net" site_id="id_sports/BS1" xmltv_id="BS1">BS1</channel>
+    <channel update="i" site="bein.net" site_id="id_sports/BS2" xmltv_id="BS2">BS2</channel>
+    <channel update="i" site="bein.net" site_id="id_sports/BS3" xmltv_id="BS3">BS3</channel>
+    <channel update="i" site="bein.net" site_id="th_sports/BS1" xmltv_id="BS1">BS1</channel>
+    <channel update="i" site="bein.net" site_id="th_sports/BS2" xmltv_id="BS2">BS2</channel>
+    <channel update="i" site="bein.net" site_id="th_sports/BS3" xmltv_id="BS3">BS3</channel>
+    <channel update="i" site="bein.net" site_id="th_sports/BS4" xmltv_id="BS4">BS4</channel>
     <channel update="i" site="bein.net" site_id="hk_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="hk_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="my_sports/MY1" xmltv_id="MY1">MY1</channel>

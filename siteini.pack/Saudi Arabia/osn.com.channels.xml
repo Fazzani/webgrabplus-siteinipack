@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.7 -- Jan van Straaten" site="osn.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="osn.com">
   <channels>
     <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First">OSN Movies First</channel>
     <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First +2">OSN Movies First +2</channel>
