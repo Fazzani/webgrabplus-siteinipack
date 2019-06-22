@@ -117,6 +117,7 @@
     <channel update="i" site="osn.com" site_id="NDT" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
     <channel update="i" site="osn.com" site_id="ANN" xmltv_id="Asianet News">Asianet News</channel>
     <channel update="i" site="osn.com" site_id="SNH" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
+    <channel update="i" site="osn.com" site_id="SNA" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
     <channel update="i" site="osn.com" site_id="MMK" xmltv_id="AlMamlaka TV">AlMamlaka TV</channel>
     <channel update="i" site="osn.com" site_id="RUS" xmltv_id="Rusiya Al Yawm">Rusiya Al Yawm</channel>
     <channel update="i" site="osn.com" site_id="ALH" xmltv_id="AL Hurra HD">AL Hurra HD</channel>
@@ -154,6 +155,8 @@
     <channel update="i" site="osn.com" site_id="BRO" xmltv_id="ABS-CBN Sports+Action">ABS-CBN Sports+Action</channel>
     <channel update="i" site="osn.com" site_id="COG" xmltv_id="Cinema One Global">Cinema One Global</channel>
     <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
+    <channel update="i" site="osn.com" site_id="DZM" xmltv_id="DZMM Teleradyo">DZMM Teleradyo</channel>
+    <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
     <channel update="i" site="osn.com" site_id="VIV" xmltv_id="Viva TV">Viva TV</channel>
     <channel update="i" site="osn.com" site_id="MYX" xmltv_id="Myx">Myx</channel>
     <channel update="i" site="osn.com" site_id="TV5" xmltv_id="Kapatid TV5">Kapatid TV5</channel>
@@ -164,5 +167,7 @@
     <channel update="i" site="osn.com" site_id="GMA" xmltv_id="GMA Pinoy TV">GMA Pinoy TV</channel>
     <channel update="i" site="osn.com" site_id="GML" xmltv_id="GMA Life TV">GMA Life TV</channel>
     <channel update="i" site="osn.com" site_id="GMN" xmltv_id="GMA News TV">GMA News TV</channel>
+    <channel update="i" site="osn.com" site_id="PBO" xmltv_id="PBO">PBO</channel>
+    <channel update="i" site="osn.com" site_id="PBA" xmltv_id="PBA">PBA</channel>
   </channels>
 </site>
