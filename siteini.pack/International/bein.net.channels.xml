@@ -26,7 +26,6 @@
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD2" xmltv_id="MoviesHD2">MoviesHD2</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD3" xmltv_id="MoviesHD3">MoviesHD3</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD4" xmltv_id="MoviesHD4">MoviesHD4</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/BoxOffice_HD1" xmltv_id="BoxOffice_HD1">BoxOffice_HD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD1" xmltv_id="SeriesHD1">SeriesHD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD2" xmltv_id="SeriesHD2">SeriesHD2</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/DramaHD1" xmltv_id="DramaHD1">DramaHD1</channel>
