@@ -64,7 +64,6 @@
     <channel update="i" site="bein.net" site_id="mena_entertaintment/AnimalPlanetHD" xmltv_id="AnimalPlanetHD">AnimalPlanetHD</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/AljazeeraDocumentary" xmltv_id="AljazeeraDocumentary">AljazeeraDocumentary</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/TRTWorld" xmltv_id="TRTWorld">TRTWorld</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FoxNews" xmltv_id="FoxNews">FoxNews</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Euronews" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/CNNHD" xmltv_id="CNNHD">CNNHD</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
@@ -95,7 +94,6 @@
     <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="BS3">BS3</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS2" xmltv_id="BS2">BS2</channel>
-    <channel update="i" site="bein.net" site_id="id_sports/BS3" xmltv_id="BS3">BS3</channel>
     <channel update="i" site="bein.net" site_id="th_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="th_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="th_sports/BS3" xmltv_id="BS3">BS3</channel>
