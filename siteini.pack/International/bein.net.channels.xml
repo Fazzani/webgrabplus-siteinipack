@@ -30,7 +30,6 @@
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD1" xmltv_id="SeriesHD1">SeriesHD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD2" xmltv_id="SeriesHD2">SeriesHD2</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/DramaHD1" xmltv_id="DramaHD1">DramaHD1</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/gourmet" xmltv_id="gourmet">gourmet</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/beJUNIOR" xmltv_id="beJUNIOR">beJUNIOR</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Jeem" xmltv_id="Jeem">Jeem</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Baraem" xmltv_id="Baraem">Baraem</channel>
@@ -97,8 +96,6 @@
     <channel update="i" site="bein.net" site_id="id_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="th_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="th_sports/BS2" xmltv_id="BS2">BS2</channel>
-    <channel update="i" site="bein.net" site_id="th_sports/BS3" xmltv_id="BS3">BS3</channel>
-    <channel update="i" site="bein.net" site_id="th_sports/BS4" xmltv_id="BS4">BS4</channel>
     <channel update="i" site="bein.net" site_id="hk_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="hk_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="my_sports/MY1" xmltv_id="MY1">MY1</channel>

@@ -29,7 +29,6 @@
     <channel update="i" site="osn.com" site_id="AF1" xmltv_id="ART Aflam 1">ART Aflam 1</channel>
     <channel update="i" site="osn.com" site_id="AF2" xmltv_id="ART Aflam 2">ART Aflam 2</channel>
     <channel update="i" site="osn.com" site_id="ACM" xmltv_id="ART Cinema">ART Cinema</channel>
-    <channel update="i" site="osn.com" site_id="ADH" xmltv_id="AD Drama + HD">AD Drama + HD</channel>
     <channel update="i" site="osn.com" site_id="HWT" xmltv_id="Hawas TV">Hawas TV</channel>
     <channel update="i" site="osn.com" site_id="BEI" xmltv_id="Beity TV">Beity TV</channel>
     <channel update="i" site="osn.com" site_id="KT1" xmltv_id="KTV1 HD">KTV1 HD</channel>
@@ -99,16 +98,8 @@
     <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
     <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
     <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
-    <channel update="i" site="osn.com" site_id="CRI" xmltv_id="OSN Cric">OSN Cric</channel>
     <channel update="i" site="osn.com" site_id="GNX" xmltv_id="Ginx Esports TV HD">Ginx Esports TV HD</channel>
-    <channel update="i" site="osn.com" site_id="AD3" xmltv_id="AD Sports 3 HD">AD Sports 3 HD</channel>
-    <channel update="i" site="osn.com" site_id="AD4" xmltv_id="AD Sports 4 HD">AD Sports 4 HD</channel>
-    <channel update="i" site="osn.com" site_id="AD5" xmltv_id="AD Sports 5 HD">AD Sports 5 HD</channel>
-    <channel update="i" site="osn.com" site_id="AD6" xmltv_id="AD Sports 6 HD">AD Sports 6 HD</channel>
-    <channel update="i" site="osn.com" site_id="AD7" xmltv_id="Edge Sport HD">Edge Sport HD</channel>
     <channel update="i" site="osn.com" site_id="DUH" xmltv_id="Dubai Racing 1 HD">Dubai Racing 1 HD</channel>
-    <channel update="i" site="osn.com" site_id="DH2" xmltv_id="Dubai Sports 4 HD">Dubai Sports 4 HD</channel>
-    <channel update="i" site="osn.com" site_id="DS5" xmltv_id="Dubai Sports 5 HD">Dubai Sports 5 HD</channel>
     <channel update="i" site="osn.com" site_id="WAD" xmltv_id="Al Wosta from Al Dhaid">Al Wosta from Al Dhaid</channel>
     <channel update="i" site="osn.com" site_id="KTS" xmltv_id="KTV Sport HD">KTV Sport HD</channel>
     <channel update="i" site="osn.com" site_id="KTP" xmltv_id="KTV Sport Plus HD">KTV Sport Plus HD</channel>
