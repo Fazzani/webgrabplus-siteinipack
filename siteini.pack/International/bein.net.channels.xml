@@ -30,6 +30,7 @@
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD1" xmltv_id="SeriesHD1">SeriesHD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD2" xmltv_id="SeriesHD2">SeriesHD2</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/DramaHD1" xmltv_id="DramaHD1">DramaHD1</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/gourmet" xmltv_id="gourmet">gourmet</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/beJUNIOR" xmltv_id="beJUNIOR">beJUNIOR</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Jeem" xmltv_id="Jeem">Jeem</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Baraem" xmltv_id="Baraem">Baraem</channel>
