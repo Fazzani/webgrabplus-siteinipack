@@ -54,11 +54,9 @@
     <channel update="i" site="osn.com" site_id="TLC" xmltv_id="TLC HD">TLC HD</channel>
     <channel update="i" site="osn.com" site_id="ETV" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
     <channel update="i" site="osn.com" site_id="BBE" xmltv_id="BBC First HD">BBC First HD</channel>
-    <channel update="i" site="osn.com" site_id="GUK" xmltv_id="ITV Choice HD">ITV Choice HD</channel>
     <channel update="i" site="osn.com" site_id="OLH" xmltv_id="OSN Living">OSN Living</channel>
     <channel update="i" site="osn.com" site_id="FTH" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
     <channel update="i" site="osn.com" site_id="B4A" xmltv_id="B4U Aflam">B4U Aflam</channel>
-    <channel update="i" site="osn.com" site_id="CTV" xmltv_id="Citruss TV">Citruss TV</channel>
     <channel update="i" site="osn.com" site_id="MTL" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="osn.com" site_id="VH1" xmltv_id="VH1">VH1</channel>
     <channel update="i" site="osn.com" site_id="DIS" xmltv_id="Disney HD">Disney HD</channel>
@@ -123,7 +121,5 @@
     <channel update="i" site="osn.com" site_id="GML" xmltv_id="GMA Life TV">GMA Life TV</channel>
     <channel update="i" site="osn.com" site_id="GMN" xmltv_id="GMA News TV">GMA News TV</channel>
     <channel update="i" site="osn.com" site_id="NET" xmltv_id="NET 25">NET 25</channel>
-    <channel update="i" site="osn.com" site_id="PBO" xmltv_id="PBO">PBO</channel>
-    <channel update="i" site="osn.com" site_id="PBA" xmltv_id="PBA">PBA</channel>
   </channels>
 </site>
