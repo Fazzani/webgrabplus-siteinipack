@@ -30,7 +30,6 @@
     <channel update="i" site="osn.com" site_id="AF2" xmltv_id="ART Aflam 2">ART Aflam 2</channel>
     <channel update="i" site="osn.com" site_id="ACM" xmltv_id="ART Cinema">ART Cinema</channel>
     <channel update="i" site="osn.com" site_id="ELL" xmltv_id="Ellay.com">Ellay.com</channel>
-    <channel update="i" site="osn.com" site_id="HWT" xmltv_id="Hawas TV">Hawas TV</channel>
     <channel update="i" site="osn.com" site_id="BEI" xmltv_id="Beity TV">Beity TV</channel>
     <channel update="i" site="osn.com" site_id="KT1" xmltv_id="KTV1 HD">KTV1 HD</channel>
     <channel update="i" site="osn.com" site_id="KT2" xmltv_id="KTV2 HD">KTV2 HD</channel>
@@ -98,7 +97,6 @@
     <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
     <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
     <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
-    <channel update="i" site="osn.com" site_id="GNX" xmltv_id="Ginx Esports TV HD">Ginx Esports TV HD</channel>
     <channel update="i" site="osn.com" site_id="DUH" xmltv_id="Dubai Racing 1 HD">Dubai Racing 1 HD</channel>
     <channel update="i" site="osn.com" site_id="DR3" xmltv_id="Dubai Racing 3">Dubai Racing 3</channel>
     <channel update="i" site="osn.com" site_id="SHS" xmltv_id="Sharjah Sport HD">Sharjah Sport HD</channel>
