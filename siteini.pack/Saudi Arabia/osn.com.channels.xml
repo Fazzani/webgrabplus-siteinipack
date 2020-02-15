@@ -52,6 +52,7 @@
     <channel update="i" site="osn.com" site_id="STW" xmltv_id="Star World HD">Star World HD</channel>
     <channel update="i" site="osn.com" site_id="TLC" xmltv_id="TLC HD">TLC HD</channel>
     <channel update="i" site="osn.com" site_id="ETV" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel update="i" site="osn.com" site_id="OMZ" xmltv_id="OSN Mezze">OSN Mezze</channel>
     <channel update="i" site="osn.com" site_id="OLH" xmltv_id="OSN Living">OSN Living</channel>
     <channel update="i" site="osn.com" site_id="FTH" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
     <channel update="i" site="osn.com" site_id="B4A" xmltv_id="B4U Aflam">B4U Aflam</channel>
@@ -107,7 +108,6 @@
     <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
     <channel update="i" site="osn.com" site_id="VIV" xmltv_id="Viva TV">Viva TV</channel>
     <channel update="i" site="osn.com" site_id="MYX" xmltv_id="Myx">Myx</channel>
-    <channel update="i" site="osn.com" site_id="TV5" xmltv_id="Kapatid TV5">Kapatid TV5</channel>
     <channel update="i" site="osn.com" site_id="ARC" xmltv_id="ABS-CBN Regional Channel">ABS-CBN Regional Channel</channel>
     <channel update="i" site="osn.com" site_id="AKS" xmltv_id="Aksyon TV">Aksyon TV</channel>
     <channel update="i" site="osn.com" site_id="CIN" xmltv_id="Cine Mo">Cine Mo</channel>
