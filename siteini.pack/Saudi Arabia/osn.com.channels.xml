@@ -48,7 +48,6 @@
     <channel update="i" site="osn.com" site_id="OBG" xmltv_id="OSN Binge">OSN Binge</channel>
     <channel update="i" site="osn.com" site_id="OCO" xmltv_id="OSN Comedy">OSN Comedy</channel>
     <channel update="i" site="osn.com" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel update="i" site="osn.com" site_id="SFY" xmltv_id="Syfy HD">Syfy HD</channel>
     <channel update="i" site="osn.com" site_id="STW" xmltv_id="Star World HD">Star World HD</channel>
     <channel update="i" site="osn.com" site_id="TLC" xmltv_id="TLC HD">TLC HD</channel>
     <channel update="i" site="osn.com" site_id="ETV" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
@@ -69,7 +68,6 @@
     <channel update="i" site="osn.com" site_id="ONS" xmltv_id="OSN News">OSN News</channel>
     <channel update="i" site="osn.com" site_id="SKH" xmltv_id="Sky News HD">Sky News HD</channel>
     <channel update="i" site="osn.com" site_id="BBW" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="osn.com" site_id="FXN" xmltv_id="Fox News">Fox News</channel>
     <channel update="i" site="osn.com" site_id="CNB" xmltv_id="CNBC">CNBC</channel>
     <channel update="i" site="osn.com" site_id="BTV" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel update="i" site="osn.com" site_id="CT9" xmltv_id="CGTN">CGTN</channel>

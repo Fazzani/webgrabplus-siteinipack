@@ -36,7 +36,6 @@
     <channel update="i" site="elcinema.en.com" site_id="1198" xmltv_id="CBC">CBC</channel>
     <channel update="i" site="elcinema.en.com" site_id="1136" xmltv_id="Abu Dhabi TV">Abu Dhabi TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1177" xmltv_id="Sama Dubai">Sama Dubai</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1193" xmltv_id="Al Nahar TV">Al Nahar TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1211" xmltv_id="OSN Action">OSN Action</channel>
     <channel update="i" site="elcinema.en.com" site_id="1209" xmltv_id="OSN Movies">OSN Movies</channel>
     <channel update="i" site="elcinema.en.com" site_id="1228" xmltv_id="Fox">Fox</channel>
@@ -79,7 +78,6 @@
     <channel update="i" site="elcinema.en.com" site_id="1330" xmltv_id="FOX ACTION MOVIES">FOX ACTION MOVIES</channel>
     <channel update="i" site="elcinema.en.com" site_id="1309" xmltv_id="beIN Drama">beIN Drama</channel>
     <channel update="i" site="elcinema.en.com" site_id="1266" xmltv_id="National Geographic Abu Dhabi">National Geographic Abu Dhabi</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1280" xmltv_id="TeN TV">TeN TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1233" xmltv_id="Fan">Fan</channel>
     <channel update="i" site="elcinema.en.com" site_id="1273" xmltv_id="E Entertainment">E Entertainment</channel>
     <channel update="i" site="elcinema.en.com" site_id="1300" xmltv_id="Syria Drama">Syria Drama</channel>
@@ -95,10 +93,12 @@
     <channel update="i" site="elcinema.en.com" site_id="1299" xmltv_id="Roya">Roya</channel>
     <channel update="i" site="elcinema.en.com" site_id="1296" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1326" xmltv_id="BeIn Box Office">BeIn Box Office</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1336" xmltv_id="Maspero Zaman">Maspero Zaman</channel>
     <channel update="i" site="elcinema.en.com" site_id="1310" xmltv_id="Kuwait">Kuwait</channel>
     <channel update="i" site="elcinema.en.com" site_id="1327" xmltv_id="BeIn Series HD 1">BeIn Series HD 1</channel>
     <channel update="i" site="elcinema.en.com" site_id="1304" xmltv_id="Nessma">Nessma</channel>
     <channel update="i" site="elcinema.en.com" site_id="1328" xmltv_id="BeIn Series HD 2">BeIn Series HD 2</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1317" xmltv_id="Oman">Oman</channel>
     <channel update="i" site="elcinema.en.com" site_id="1329" xmltv_id="Star World">Star World</channel>
     <channel update="i" site="elcinema.en.com" site_id="1302" xmltv_id="Fujairah">Fujairah</channel>
     <channel update="i" site="elcinema.en.com" site_id="1308" xmltv_id="Watania1">Watania1</channel>
