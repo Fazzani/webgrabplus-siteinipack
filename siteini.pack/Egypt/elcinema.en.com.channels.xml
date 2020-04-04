@@ -1,9 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="elcinema.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" site="elcinema.com">
   <channels>
     <channel update="i" site="elcinema.en.com" site_id="1128" xmltv_id="MBC 2">MBC 2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1173" xmltv_id="Dubai One">Dubai One</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1261" xmltv_id="Zee alwan">Zee alwan</channel>
     <channel update="i" site="elcinema.en.com" site_id="1223" xmltv_id="Al Nahar Drama">Al Nahar Drama</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1148" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1169" xmltv_id="Dubai TV">Dubai TV</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1138" xmltv_id="Alhayat Drama">Alhayat Drama</channel>
     <channel update="i" site="elcinema.en.com" site_id="1130" xmltv_id="MBC Action">MBC Action</channel>
     <channel update="i" site="elcinema.en.com" site_id="1120" xmltv_id="ART Aflam 1">ART Aflam 1</channel>
     <channel update="i" site="elcinema.en.com" site_id="1121" xmltv_id="ART Aflam 2">ART Aflam 2</channel>
@@ -18,7 +22,6 @@
     <channel update="i" site="elcinema.en.com" site_id="1122" xmltv_id="ART Hekayat">ART Hekayat</channel>
     <channel update="i" site="elcinema.en.com" site_id="1182" xmltv_id="ART Hekayat 2">ART Hekayat 2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1194" xmltv_id="MBC Drama">MBC Drama</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1239" xmltv_id="MBC Egypt">MBC Egypt</channel>
     <channel update="i" site="elcinema.en.com" site_id="1178" xmltv_id="Abu Dhabi Drama">Abu Dhabi Drama</channel>
     <channel update="i" site="elcinema.en.com" site_id="1250" xmltv_id="OSN YA HALA AL OULA">OSN YA HALA AL OULA</channel>
     <channel update="i" site="elcinema.en.com" site_id="1259" xmltv_id="MBC Bollywood">MBC Bollywood</channel>
@@ -30,10 +33,10 @@
     <channel update="i" site="elcinema.en.com" site_id="1127" xmltv_id="MBC">MBC</channel>
     <channel update="i" site="elcinema.en.com" site_id="1186" xmltv_id="Series +2">Series +2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1227" xmltv_id="Sada El Balad Drama">Sada El Balad Drama</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1278" xmltv_id="MBC MASR 2">MBC MASR 2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1198" xmltv_id="CBC">CBC</channel>
     <channel update="i" site="elcinema.en.com" site_id="1136" xmltv_id="Abu Dhabi TV">Abu Dhabi TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1177" xmltv_id="Sama Dubai">Sama Dubai</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1193" xmltv_id="Al Nahar TV">Al Nahar TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1211" xmltv_id="OSN Action">OSN Action</channel>
     <channel update="i" site="elcinema.en.com" site_id="1209" xmltv_id="OSN Movies">OSN Movies</channel>
     <channel update="i" site="elcinema.en.com" site_id="1228" xmltv_id="Fox">Fox</channel>
@@ -101,7 +104,6 @@
     <channel update="i" site="elcinema.en.com" site_id="1317" xmltv_id="Oman">Oman</channel>
     <channel update="i" site="elcinema.en.com" site_id="1329" xmltv_id="Star World">Star World</channel>
     <channel update="i" site="elcinema.en.com" site_id="1302" xmltv_id="Fujairah">Fujairah</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1308" xmltv_id="Watania1">Watania1</channel>
     <channel update="i" site="elcinema.en.com" site_id="1340" xmltv_id="MBC Iraq">MBC Iraq</channel>
     <channel update="i" site="elcinema.en.com" site_id="1312" xmltv_id="Al Aoula Morocco">Al Aoula Morocco</channel>
     <channel update="i" site="elcinema.en.com" site_id="1321" xmltv_id="almanar">almanar</channel>
@@ -111,9 +113,9 @@
     <channel update="i" site="elcinema.en.com" site_id="1339" xmltv_id="Al Saeedah">Al Saeedah</channel>
     <channel update="i" site="elcinema.en.com" site_id="1347" xmltv_id="OSN CINEMA">OSN CINEMA</channel>
     <channel update="i" site="elcinema.en.com" site_id="1343" xmltv_id="Musawa">Musawa</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1355" xmltv_id="Mix">Mix</channel>
     <channel update="i" site="elcinema.en.com" site_id="1353" xmltv_id="2M TV">2M TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1354" xmltv_id="MBC 5">MBC 5</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1355" xmltv_id="Mix">Mix</channel>
     <channel update="i" site="elcinema.en.com" site_id="1350" xmltv_id="Sama TV">Sama TV</channel>
   </channels>
 </site>

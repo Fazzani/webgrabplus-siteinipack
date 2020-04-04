@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="osn.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" site="osn.com">
   <channels>
     <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First">OSN Movies First</channel>
     <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First +2">OSN Movies First +2</channel>
@@ -17,7 +17,6 @@
     <channel update="i" site="osn.com" site_id="OYA" xmltv_id="OSN Ya Hala">OSN Ya Hala</channel>
     <channel update="i" site="osn.com" site_id="OYC" xmltv_id="OSN Yahala Cinema">OSN Yahala Cinema</channel>
     <channel update="i" site="osn.com" site_id="SER" xmltv_id="Series Channel">Series Channel</channel>
-    <channel update="i" site="osn.com" site_id="SE4" xmltv_id="Series +2">Series +2</channel>
     <channel update="i" site="osn.com" site_id="YAW" xmltv_id="Al Yawm">Al Yawm</channel>
     <channel update="i" site="osn.com" site_id="SAF" xmltv_id="Al Safwa">Al Safwa</channel>
     <channel update="i" site="osn.com" site_id="FAN" xmltv_id="Fann">Fann</channel>
