@@ -16,6 +16,8 @@
     <channel update="i" site="elcinema.en.com" site_id="1199" xmltv_id="CBC Drama">CBC Drama</channel>
     <channel update="i" site="elcinema.en.com" site_id="1176" xmltv_id="Cima">Cima</channel>
     <channel update="i" site="elcinema.en.com" site_id="1156" xmltv_id="Nile Drama">Nile Drama</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1129" xmltv_id="MBC 4">MBC 4</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1132" xmltv_id="MBC MAX">MBC MAX</channel>
     <channel update="i" site="elcinema.en.com" site_id="1122" xmltv_id="ART Hekayat">ART Hekayat</channel>
     <channel update="i" site="elcinema.en.com" site_id="1182" xmltv_id="ART Hekayat 2">ART Hekayat 2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1194" xmltv_id="MBC Drama">MBC Drama</channel>
@@ -119,19 +121,18 @@
     <channel update="i" site="elcinema.en.com" site_id="1339" xmltv_id="Al Saeedah">Al Saeedah</channel>
     <channel update="i" site="elcinema.en.com" site_id="1341" xmltv_id="LBC">LBC</channel>
     <channel update="i" site="elcinema.en.com" site_id="1343" xmltv_id="Musawa">Musawa</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1353" xmltv_id="2M TV">2M TV</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1355" xmltv_id="Mix">Mix</channel>
     <channel update="i" site="elcinema.en.com" site_id="1350" xmltv_id="Sama TV">Sama TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1366" xmltv_id="Thikrayat Tv">Thikrayat Tv</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1362" xmltv_id="BEIN Box Office 2">BEIN Box Office 2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1365" xmltv_id="Rotana+ HD">Rotana+ HD</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1364" xmltv_id="Rotana America">Rotana America</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1360" xmltv_id="Salam TV">Salam TV</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1363" xmltv_id="BEIN CINEMA">BEIN CINEMA</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1354" xmltv_id="MBC 5">MBC 5</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1357" xmltv_id="OSN pop up">OSN pop up</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1355" xmltv_id="Mix">Mix</channel>
-    <channel update="i" site="elcinema.en.com" site_id="1353" xmltv_id="2M TV">2M TV</channel>
     <channel update="i" site="elcinema.en.com" site_id="1352" xmltv_id="Saudiya TV">Saudiya TV</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1362" xmltv_id="BEIN Box Office 2">BEIN Box Office 2</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1354" xmltv_id="MBC 5">MBC 5</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1360" xmltv_id="Salam TV">Salam TV</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1364" xmltv_id="Rotana America">Rotana America</channel>
     <channel update="i" site="elcinema.en.com" site_id="1358" xmltv_id="Rotana Comedy">Rotana Comedy</channel>
     <channel update="i" site="elcinema.en.com" site_id="1356" xmltv_id="Rotana Kids">Rotana Kids</channel>
+    <channel update="i" site="elcinema.en.com" site_id="1363" xmltv_id="BEIN CINEMA">BEIN CINEMA</channel>
   </channels>
 </site>
